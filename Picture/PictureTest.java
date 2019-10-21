@@ -11,6 +11,7 @@ import org.junit.Test;
  * @author  (your name)
  * @version (a version number or a date)
  */
+
 public class PictureTest
 {
     /**
